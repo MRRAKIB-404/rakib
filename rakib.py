@@ -1,4 +1,4 @@
-# Decompile by : Tahidul khan
+# Decompile by : MR RAKIB
 # Time Succes decompile : 2022-03-07 00:21:42.178972 
 
 W = '\033[97;1m' 
