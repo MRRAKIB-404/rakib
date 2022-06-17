@@ -14,7 +14,7 @@ pip2 install mechanize
 
 git clone
 
-
+https://github.com/MRRAKIB-404/rakib
 
 cd rakib.py
 
