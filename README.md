@@ -16,6 +16,6 @@ git clone
 
 https://github.com/MRRAKIB-404/rakib
 
-cd rakib.py
+cd rakib
 
 python rakib.py
